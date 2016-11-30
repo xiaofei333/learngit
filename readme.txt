@@ -18,6 +18,8 @@ git reset HEAD readme.txt
 
 git commit readme.txt -m "commit readme"
 
+git commit -m "test commit"
+
 
 git log 
 
